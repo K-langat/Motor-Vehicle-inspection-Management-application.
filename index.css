@@ -1,0 +1,21 @@
+h1{
+    color: rgb(89, 136, 18);
+    text-align: center;
+    margin-top: 40px;
+}
+
+.logo{
+  background-image: url(./assets/Safaricom\ Logo\ 152x43px-01.png);  
+  height: 150px;
+  margin-top: 20px;
+ 
+}
+
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+body{
+    background-color: rgb(121, 226, 226);
+  
+}
